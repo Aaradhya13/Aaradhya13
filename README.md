@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]([https://github.com/Aaradhya13](https://aaradhya13.github.io/Aaradhya13/))
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]([https://github.com/Aaradhya13](https://aaradhya13.github.io/Aaradhya13/])
 <h1 align="center">Hi 👋, I'm Aaradhya Saikia</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
